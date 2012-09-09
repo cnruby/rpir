@@ -1,0 +1,12 @@
+# change these as desired - they're the pins connected from the
+# SPI port on the ADC to the Cobbler
+input:
+  pinmiso: 4
+
+output:
+  pinclock: 1
+  pinmosi: 5
+  pincs: 6
+
+volt: 3.3
+  
