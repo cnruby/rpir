@@ -1,6 +1,6 @@
 # Rpir
 
-WiringRuby's extension for special components
+WiringRuby's extension in Ruby for special components
 
 ## Installation
 
